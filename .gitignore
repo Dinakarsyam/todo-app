@@ -1,0 +1,19 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLAlchemy-migrations
+migrations/
+
+# Environment variables
+.env
+
+# SQLite database file
+*.db
+
+# VS Code settings
+.vscode/
+
+# Windows specific files
+todo.db
